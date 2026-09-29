@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --background: #090A0F; /* Deep midnight */
+  --foreground: #F8FAFC; /* Warm white */
+  --surface: #11131A; /* Slightly lighter navy-charcoal */
+  --surface-hover: #1A1D27;
+  --border: #1F222E;
+  
+  --color-primary: #38BDF8; /* Electric blue */
+  --color-positive: #10B981; /* Emerald */
+  --color-negative: #F43F5E; /* Muted coral/rose */
+  --color-warning: #F59E0B; /* Amber */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans), Inter, sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Scrollbar for dense analytical panels */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
