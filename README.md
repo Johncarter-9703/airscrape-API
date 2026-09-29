@@ -7,7 +7,7 @@
 ---
 
 ## 🎥 Pitch & Demo Video
-> **[Watch the full Demo Video on YouTube] (#)** *(Link to be updated)*
+> **[Watch the full Demo Video on YouTube](https://youtu.be/h4z-4Xtn5YY)**
 
 ---
 
