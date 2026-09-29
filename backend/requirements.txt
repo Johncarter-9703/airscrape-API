@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+apscheduler==3.10.4
+pandas==2.2.2
+numpy==1.26.4
+python-dateutil==2.9.0
