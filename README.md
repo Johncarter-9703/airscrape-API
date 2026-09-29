@@ -77,4 +77,4 @@ npm run dev
 *(The Dashboard will be available at http://localhost:3000)*
 
 ---
-*Built with ❤️ for the Smart India Hackathon.*
+
