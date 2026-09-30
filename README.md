@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🛫 AIR-SCRAPE: Airfare Price Index (APIx) Intelligence Platform</h1>
-  <p><strong>Smart India Hackathon (SIH) 2024 Submission</strong></p>
+  <p><strong>Smart India Hackathon (SIH) 2026 Submission</strong></p>
   <p><em>An automated data engine and visualization dashboard for calculating real-time Airfare Price Indices.</em></p>
 </div>
 
